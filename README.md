@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Inspired by 16 and 32-bit classics, Gestalt: Steam & Cinder fuses tight 2D platforming and exhilarating combat with an engrossing, twist-laden narrative in a stunningly handcrafted steampunk world.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Intel Core2 Duo E8400 or AMD Phenom II x2 550 | Intel Core i5 / Apple M1 |
+| **Memory** | 4 MB RAM | 4 MB RAM |
+| **Graphics** | GeForce GTX 260 or Radeon HD 4850 | Metal-capable GPU |
+| **Storage** | 4 GB available space | 4 GB available space |
+| **OS *** | Windows 7 64-bit | Windows 7 64-bit |
+| **Sound Card** | N/A | N/A |
 
 ---
 
